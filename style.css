@@ -1,4 +1,7 @@
-body {
+
+html,
+body,
+.wrapper {
     background: gray;
 }
 
@@ -22,3 +25,4 @@ header {
 .card-body {
     text-align: center;
 }
+
