@@ -16,7 +16,21 @@ header {
     color: #fff;
 }
 
+#id {
+    color: aqua;
+}
 
+.card-footer {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    /* border: 3px black solid; */
+}
+
+#generate {
+    border: 3px black solid;
+    display: flex;
+}
 
 .card-header {
     text-align: center;
